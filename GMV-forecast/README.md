@@ -16,4 +16,4 @@ The business team wants to
 
 1. understand patterns in the data,
 2. forecast GMV for each user for the month of January 2022, and
-3. forecast GMV for YayYay as a whole for each date in the month of January 2022.
+3. forecast GMV for PayPay as a whole for each date in the month of January 2022.
